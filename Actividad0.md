@@ -1,4 +1,1 @@
-# Programacion-Basica-302-I
-## Daniela Alejandra Garcia Aguero
-## 31/Enero/2008
-## Portafolio de Codigos C++
+<img width="342" height="142" alt="image" src="https://github.com/user-attachments/assets/7e9fdb69-9e4e-46ba-a7a3-11bb7882f99e" />
